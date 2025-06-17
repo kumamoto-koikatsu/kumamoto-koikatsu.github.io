@@ -149,7 +149,7 @@ label {
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-bottom: 5px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   display: block;
 }
@@ -174,7 +174,7 @@ figcaption {
   text-align: center;
   margin-top: 8px;
   font-family: Merriweather, serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 300;
 }
 
@@ -329,7 +329,7 @@ figcaption {
   letter-spacing: .5px;
   text-transform: none;
   margin-right: 22px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
   line-height: 120%;
   text-decoration: none;
@@ -371,7 +371,7 @@ figcaption {
   text-align: left;
   margin-bottom: 20px;
   font-family: Open Sans, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 145%;
 }
@@ -405,7 +405,7 @@ figcaption {
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-right: 8px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 125%;
   display: inline-block;
 }
@@ -650,21 +650,21 @@ figcaption {
 
 .sidebar-copy h1 {
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 125%;
 }
 
 .sidebar-copy p {
   margin-bottom: 10px;
   font-family: Merriweather, serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
 }
 
 .sidebar-copy h2, .sidebar-copy h3 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 125%;
 }
 
@@ -988,7 +988,7 @@ figcaption {
     width: auto;
     margin-left: 20px;
     margin-right: 20px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .footer {
@@ -1065,7 +1065,7 @@ figcaption {
     width: auto;
     margin-left: 20px;
     margin-right: 20px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
@@ -1076,7 +1076,7 @@ figcaption {
   }
 
   .header-section {
-    background-position: 100% 30%;
+    background-position: 64% 30%;
     background-repeat: no-repeat;
     background-size: auto;
     background-attachment: scroll;
@@ -1120,7 +1120,7 @@ figcaption {
     color: #e7e7e7;
     margin-top: 100px;
     margin-right: 10px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .footer {
@@ -1161,7 +1161,7 @@ figcaption {
 
   .code-embed {
     width: 100%;
-    font-size: 12px;
+    font-size: 14px;
     overflow: hidden;
   }
 
@@ -1173,7 +1173,7 @@ figcaption {
     color: #e7e7e7;
     margin-top: 0;
     margin-right: 10px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .bold-text-10, .bold-text-11, .heading-5, .bold-text-12, .heading-6 {
